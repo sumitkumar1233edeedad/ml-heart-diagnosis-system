@@ -14,6 +14,12 @@ This project builds a Machine Learning classification system to predict the pres
 Multiple machine learning models are implemented and compared to determine the best-performing algorithm.
 
 ---
+## 🩺 Heart Disease Prediction using Machine Learning
+- 🔗 GitHub Repo: [ml-heart-diagnosis-system](https://github.com/sumitkumar1233edeedad/ml-heart-diagnosis-system)  
+- 💻 Live Demo (Streamlit App): [ml-heart-diagnosis-system.streamlit.app](https://ml-heart-diagnosis-system.streamlit.app/)  
+
+---
+
 
 ## 🎯 Problem Statement
 
