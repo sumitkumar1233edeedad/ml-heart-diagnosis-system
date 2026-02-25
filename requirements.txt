@@ -4,5 +4,4 @@ numpy
 matplotlib
 polars
 skops
-os
 scikit
