@@ -1,0 +1,8 @@
+streamlit
+pandas 
+numpy
+matplotlib
+polars
+skops
+os
+scikit
